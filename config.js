@@ -16,16 +16,16 @@ global.xteam = 'apivproject'
 global.lolhuman = 'yourkey'
 
 // Other
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.ownername = 'YahyaGanzz'
-global.botname = 'AzzBot•MD'
-global.packname = '© YahyaGanzz'
+global.owner = ['6283123942188']
+global.premium = ['6283123942188']
+global.ownername = 'DikzzBOT'
+global.botname = 'DikzzBOT•MD'
+global.packname = '© DikzzAE'
 global.gc = 'https://github.com/AzzBott679'
-global.linkyt = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
-global.linkgc = 'https://chat.whatsapp.com/CkguID8hSdSFAaBrKNHLSr'
+global.linkyt = 'https://youtube.com/channel/UCSRFOrzVQvRuOCemNW3PHyg'
+global.linkgc = 'https://chat.whatsapp.com/JIiehpJZrn5KYhYaSWMlev'
 global.limitawal = '10'
-global.author = '@yahyaganzz\n@AzzBot'
+global.author = '@dikastore_real'
 global.sessionName = 'sessionya'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
